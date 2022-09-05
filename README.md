@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="johansel23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="johansel23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="johansel23 | Instagram" width="22px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
+[<img align="left" alt="johansel23 | LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
 [![Gmail Badge](https://img.shields.io/badge/-johanselcl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johanselcl@gmail.com)](mailto:johanselcl@gmail.com)
 
