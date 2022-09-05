@@ -3,6 +3,11 @@
 <!--
 **johansel23/johansel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=johansel23&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johansel23&hide=TeX&layout=compact)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
