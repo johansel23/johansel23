@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,nodejs,java,spring,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,nodejs,java,spring)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,mysql,docker,git,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,mysql,docker,git,gitlab,stackoverflow)](https://skillicons.dev)
 
 ---
 
